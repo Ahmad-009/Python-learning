@@ -82,3 +82,4 @@ elif action == "Left" or action == "left":
         print("U entered the wrong command u doofus!..GAME OVER")
 else:
     print("U entered the wrong command....Game over")
+# use .lower() function to lower the input by the user
